@@ -1,6 +1,7 @@
 🥦 Calorie Estimation from Food Images
 📌 Project Overview
-This project aims to provide users with a convenient and intelligent system for estimating calorie content from food images. Built using deep learning techniques, the model is trained to recognize and classify food items using a custom dataset, enabling users to make informed dietary decisions and promote healthy eating habits.
+This project aims to provide users with a convenient and intelligent system for estimating calorie content from food images.
+Built using deep learning techniques, the model is trained to recognize and classify food items using a custom dataset, enabling users to make informed dietary decisions and promote healthy eating habits.
 
 🎯 Objectives
 Classify food items from user-uploaded images.
@@ -12,7 +13,8 @@ Provide users with guidance for healthier dietary choices.
 Support fitness and wellness goals through visual analysis.
 
 🧠 How It Works
-Using a Convolutional Neural Network (CNN), the system processes food images, predicts the food class, and estimates the associated calorie content. This automation helps users quickly evaluate meals without manually inputting food information.
+Using a Convolutional Neural Network (CNN), the system processes food images, predicts the food class, and estimates the associated calorie content.
+This automation helps users quickly evaluate meals without manually inputting food information.
 
 📚 Dataset
 Dataset Used: Fruit and Vegetable Image Recognition
@@ -58,3 +60,4 @@ Real-time visualization using training and validation accuracy/loss curves
 🔢 Estimated calorie content based on food type
 
 📊 Accuracy score and confusion matrix for validation performance
+
